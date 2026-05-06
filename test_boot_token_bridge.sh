@@ -1,0 +1,1 @@
+python3 test_boot_token_bridge.py --customer_id 551826890 --application_id 251014 --serial 1001 --version "v1.0.0" --git_hash "no_cache" --device_type "node" --cert_path certs/waites/certificate.pem.crt --key_path certs/waites/private.pem.key --broker a3tjieanngjl2e.iot.us-east-1.amazonaws.com --gateway_serial 99999008

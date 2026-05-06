@@ -1,0 +1,1 @@
+mosquitto_sub -d -h mqtt.ulogger.ai -p 8883 -i cust-551826890-test --cafile certs/ulogger/AmazonRootRSA_CAs.pem --cert certs/ulogger/certificate.pem.crt --key certs/ulogger/private.pem.key -t boot/v0/551826890/+

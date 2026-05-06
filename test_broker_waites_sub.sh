@@ -1,0 +1,1 @@
+mosquitto_sub -d -h a3tjieanngjl2e.iot.us-east-1.amazonaws.com -p 8883 -i 99999008-test --cafile certs/waites/AmazonRootRSA_CAs.pem --cert certs/waites/certificate.pem.crt --key certs/waites/private.pem.key -t ulogger/boot/v0/551826890/+
